@@ -5,8 +5,10 @@ function App() {
 
     return (
         <>
-            <Header/>
-            <Quiz/>
+            <Header />
+            <main>
+                <Quiz />
+            </main>
         </>
     )
 }
